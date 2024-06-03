@@ -24,6 +24,14 @@
 
 [Demo Code](https://github.com/grensen/maui/blob/main/code/maui_lines.cs)
 
+## MAUI File Download
+
+<p align="center">
+  <img src="https://github.com/grensen/maui/blob/main/figures/maui_file_download.png">
+</p>
+
+[Demo Code](https://github.com/grensen/maui/blob/main/code/maui_file_download.cs)
+
 ## MAUI DrawingView
 
 <p align="center">
