@@ -54,13 +54,14 @@
 ## MAUI Lines Android
 
 <p align="center">
-  <img src="https://github.com/grensen/maui/blob/main/figures/maui_lines_android.jpg">
+  <img src="https://github.com/grensen/maui/blob/main/figures/maui_lines_android.jpg" width="400" height="200">
 </p>
 
 ## MAUI Neural Network Predictions Android
 
+
 <p align="center">
-  <img src="https://github.com/grensen/maui/blob/main/figures/maui_predictions_android.jpg">
+  <img src="https://github.com/grensen/maui/blob/main/figures/maui_predictions_android.jpg" width="200" height="400">
 </p>
 
 
