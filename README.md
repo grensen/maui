@@ -51,5 +51,17 @@
 
 [Demo Code](https://github.com/grensen/maui/blob/main/code/maui_predictions.cs)
 
+## MAUI Lines Android
+
+<p align="center">
+  <img src="https://github.com/grensen/maui/blob/main/figures/maui_lines_android.jpg">
+</p>
+
+## MAUI Neural Network Predictions Android
+
+<p align="center">
+  <img src="https://github.com/grensen/maui/blob/main/figures/maui_predictions_android.jpg">
+</p>
+
 
 
