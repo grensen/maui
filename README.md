@@ -46,7 +46,7 @@
 ## MAUI Predictions
 
 <p align="center">
-  <img src="https://github.com/grensen/maui/blob/main/figures/maui_predictions.png">
+  <img src="https://github.com/grensen/maui/blob/main/figures/maui_predictions.gif">
 </p>
 
 [Demo Code](https://github.com/grensen/maui/blob/main/code/maui_predictions.cs)
