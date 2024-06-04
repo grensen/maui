@@ -1,5 +1,12 @@
 ## .NET MAUI NO-XAML Intro
 
+
+## Copilot as LLM Assistant for .NET MAUI  
+
+<p align="center">
+  <img src="https://github.com/grensen/maui/blob/main/figures/Copilot.png" height = 500, width = 500>
+</p>
+
 ## MAUI Atomic  
 
 <p align="center">
