@@ -64,7 +64,7 @@
   <img src="https://github.com/grensen/maui/blob/main/figures/maui_training.gif">
 </p>
 
-[Predictions Demo Code](https://github.com/grensen/maui/blob/main/code/maui_training.cs)
+[Training Demo Code](https://github.com/grensen/maui/blob/main/code/maui_training.cs)
 
 ## MAUI OCR Plugin
 
@@ -87,6 +87,12 @@
 
 <p align="center">
   <img src="https://github.com/grensen/maui/blob/main/figures/maui_predictions_android.jpg" width="200" height="400">
+</p>
+
+## MAUI Neural Network Training Android
+
+<p align="center">
+  <img src="https://github.com/grensen/maui/blob/main/figures/maui_training_android.jpg" width="200" height="400">
 </p>
 
 
