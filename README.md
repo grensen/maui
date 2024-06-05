@@ -58,6 +58,14 @@
 
 [Predictions Demo Code](https://github.com/grensen/maui/blob/main/code/maui_predictions.cs)
 
+## MAUI Training
+
+<p align="center">
+  <img src="https://github.com/grensen/maui/blob/main/figures/maui_training.gif">
+</p>
+
+[Predictions Demo Code](https://github.com/grensen/maui/blob/main/code/maui_training.cs)
+
 ## MAUI OCR Plugin
 
 <p align="center">
