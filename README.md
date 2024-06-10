@@ -1,6 +1,5 @@
 ## .NET MAUI NO-XAML Intro
 
-
 ## Copilot as LLM Assistant for .NET MAUI  
 
 <p align="center">
@@ -83,7 +82,9 @@
   <img src="https://github.com/grensen/maui/blob/main/figures/maui_kmeans.gif">
 </p>
 
-[Training Demo Code](https://github.com/grensen/maui/blob/main/code/maui_kmeans.cs)
+[k-Means Demo Code](https://github.com/grensen/maui/blob/main/code/maui_kmeans.cs),
+[k-Means 2021](https://github.com/grensen/k-means),
+[How to k-Means](https://jamesmccaffrey.wordpress.com/?s=k-means)
 
 ## MAUI Lines Android
 
