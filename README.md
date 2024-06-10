@@ -77,6 +77,14 @@
 [OCR Plugin GitHub](https://github.com/kfrancis/ocr),  
 [OCR GitHub](https://github.com/jfversluis/MauiOcrPluginSample)  
 
+## MAUI k-Means Clustering Image Segementation
+
+<p align="center">
+  <img src="https://github.com/grensen/maui/blob/main/figures/maui_kmeans.gif">
+</p>
+
+[Training Demo Code](https://github.com/grensen/maui/blob/main/code/maui_kmeans.cs)
+
 ## MAUI Lines Android
 
 <p align="center">
@@ -93,6 +101,12 @@
 
 <p align="center">
   <img src="https://github.com/grensen/maui/blob/main/figures/maui_training_android.jpg" width="200" height="400">
+</p>
+
+## MAUI k-Means Android
+
+<p align="center">
+  <img src="https://github.com/grensen/maui/blob/main/figures/maui_kmeans_android.jpg" width="200" height="400">
 </p>
 
 
