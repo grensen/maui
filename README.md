@@ -76,7 +76,7 @@
 [OCR Plugin GitHub](https://github.com/kfrancis/ocr),  
 [OCR GitHub](https://github.com/jfversluis/MauiOcrPluginSample)  
 
-## MAUI k-Means Clustering Image Segementation
+## MAUI k-Means Clustering Image Segmentation
 
 <p align="center">
   <img src="https://github.com/grensen/maui/blob/main/figures/maui_kmeans.gif">
