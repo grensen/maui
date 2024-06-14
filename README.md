@@ -38,6 +38,14 @@
 
 [File Download Demo Code](https://github.com/grensen/maui/blob/main/code/maui_file_download.cs)
 
+## MAUI Save and Load Text
+
+<p align="center">
+  <img src="https://github.com/grensen/maui/blob/main/figures/maui_save_and_load_text.png">
+</p>
+
+[File Download Demo Code](https://github.com/grensen/maui/blob/main/code/maui_save_and_load_text.cs)
+
 ## MAUI DrawingView
 
 <p align="center">
