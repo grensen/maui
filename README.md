@@ -44,7 +44,7 @@
   <img src="https://github.com/grensen/maui/blob/main/figures/maui_save_and_load_text.png">
 </p>
 
-[File Download Demo Code](https://github.com/grensen/maui/blob/main/code/maui_save_and_load_text.cs)
+[Save and Load Text Demo Code](https://github.com/grensen/maui/blob/main/code/maui_save_and_load_text.cs)
 
 ## MAUI DrawingView
 
